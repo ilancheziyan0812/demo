@@ -1,8 +1,8 @@
 class function
 {
-    public static  add(int a,int b,int d)
+    public static  add(int a,int b)
 {
-   int c = a+b+d;
+   int c = a+b;
    return(c);
 }
 public static void main(String [] args)
